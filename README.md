@@ -1,1 +1,1 @@
-<a href="https://javascript:alert(1)" xfr="aloha" rel="follow">javascript:alert(1)</a>
+<aa xhref="https://javascript:alert(1)" xfr="aloha" onmouseover=alert(document.cookie) reqwl="follow">javascript:alert(1)</aa>
