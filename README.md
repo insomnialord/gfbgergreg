@@ -1,1 +1,1 @@
-<a href=javascript:alert(1)</a>
+<a href=https://javascript:alert(1)</a>
