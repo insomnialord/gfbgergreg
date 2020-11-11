@@ -1,1 +1,1 @@
-<a href=https://bn2jr6gw41dmdifs66izhstpzg59ty.burpcollaborator.net</a>
+<a href=javascript:alert(1)</a>
